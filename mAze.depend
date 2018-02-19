@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1518907217 source:c:\users\icoop\desktop\reborn\maze\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
